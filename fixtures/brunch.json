@@ -1,0 +1,135 @@
+{
+  "id": "synth-brunch-001",
+  "event_type": "retirement brunch",
+  "event_name": "Marshthread Bindery Retirement Brunch honoring Idris Pell",
+  "client": {
+    "organization": "Marshthread Bindery",
+    "contact_name": "Mara Quill",
+    "contact_role": "Studio lead"
+  },
+  "venue": {
+    "name": "Nettlewharf Orangery",
+    "room": "East Bay",
+    "address": "3 Nettle Wharf, Yarrowton"
+  },
+  "date": "2027-08-29",
+  "timing": {
+    "load_in": "07:00",
+    "guest_arrival": "10:00",
+    "start": "10:30",
+    "end": "13:00",
+    "load_out": "14:30",
+    "milestones": [
+      {
+        "time": "08:45",
+        "item": "Staff meal in the orangery pantry"
+      },
+      {
+        "time": "09:45",
+        "item": "Photo-loop tech check"
+      },
+      {
+        "time": "10:00",
+        "item": "Doors; coffee, tea, and citrus water poured"
+      },
+      {
+        "time": "10:30",
+        "item": "Brunch buffet opens, south glass wall"
+      },
+      {
+        "time": "11:45",
+        "item": "Buffet holds; remarks and a sparkling toast"
+      },
+      {
+        "time": "12:15",
+        "item": "Cake service from a skirted cake table"
+      },
+      {
+        "time": "12:45",
+        "item": "Final thanks and send-off"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 56,
+    "expected": 58,
+    "staff_meals": 8
+  },
+  "menu": {
+    "style": "brunch buffet with a sparkling toast",
+    "service_notes": "Buffet open 10:30-11:45. Hosted sparkling toast [PACKAGE] poured for the 11:45 remarks only; no full bar and no spirits. Coffee refresh every 20 minutes from 10:00. Cake is a display cake, sliced at 12:15, not a second plated dessert. Idris Pell is a fictional honoree in this sample, not a real person.",
+    "courses": [
+      {
+        "course": "Brunch buffet",
+        "items": [
+          "seasonal fruit and berries",
+          "yogurt and granola, oat milk on the side",
+          "egg and greens frittata",
+          "smoked trout platters, labeled allergen: fish",
+          "herbed potato hash",
+          "pastries, labeled vegan and gluten-free trays"
+        ]
+      },
+      {
+        "course": "Toast",
+        "items": [
+          "hosted sparkling wine [PACKAGE]; a labeled non-alcoholic citrus pour for any guest who declines"
+        ]
+      },
+      {
+        "course": "Cake",
+        "items": [
+          "lemon olive-oil cake with berry compote; labeled gluten-free slices for 5"
+        ]
+      }
+    ],
+    "bar": {
+      "style": "hosted sparkling-wine toast",
+      "hours": "toast service only, during the 11:45 remarks",
+      "location": "tableside pour",
+      "inclusions": "hosted sparkling wine [PACKAGE] and a labeled non-alcoholic citrus pour",
+      "last_call": "end of toast",
+      "bartenders": 1,
+      "notes": "Toast only; no full bar."
+    }
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 10,
+      "note": "frittata, hash, fruit, pastry, cake; 3 of these are vegan and skip the frittata and yogurt"
+    },
+    {
+      "need": "vegan",
+      "count": 3
+    },
+    {
+      "need": "gluten-free",
+      "count": 5,
+      "note": "labeled pastry tray and cake slices; confirm the granola"
+    }
+  ],
+  "room_setup": {
+    "style": "rounds in the East Bay, buffet along the south glass, a small remarks landing at the east doors",
+    "tables": "8 rounds of 8",
+    "seating": "assigned, honoree table closest to the landing (one of the 8)",
+    "other": "See floor plan [ATTACHMENT]. Pale sage floor-length linen, white overlay, ivory napkins, no open flame, low seasonal branches (house). Skirted cake table, ivory, opposite the buffet. Place-card table in the foyer. Seat capacity 64.",
+    "seat_capacity": 64
+  },
+  "av": {
+    "items": [
+      "one wireless handheld for remarks",
+      "a 16:9 screen on a cart for a silent photo loop",
+      "HDMI and a USB-C adapter"
+    ],
+    "notes": "Client supplies the photo loop on a labeled drive at load-in. Tech check 09:45. No microphone needed except the handheld. House operator only."
+  },
+  "billing": {
+    "charge_to": "Marshthread Bindery, retirement brunch 2027",
+    "guarantee_policy": "48-hour guarantee, 5% overage cap",
+    "tax_or_service": "service charge 20%, tax as required",
+    "overage_cap_percent": 5,
+    "notes": "Master account: room, brunch buffet, cake, and [PACKAGE] sparkling toast. [DEPOSIT] due on signing. Authorized signer [SIGNER]. Parking not included."
+  },
+  "notes": "Synthetic sample only. Honoree and all guests are fictional. Staff meal 08:45, 8 meals. Expected 58 is inside 64 seats and inside the 5% cap (2). Quiet during remarks."
+}

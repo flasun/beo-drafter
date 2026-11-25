@@ -1,0 +1,141 @@
+{
+  "id": "synth-awards-001",
+  "event_type": "awards dinner",
+  "event_name": "Vellumfen Broadsheets Awards Dinner",
+  "client": {
+    "organization": "Vellumfen Broadsheets",
+    "contact_name": "Chris Okafor",
+    "contact_role": "Publisher"
+  },
+  "venue": {
+    "name": "Stonebroom Loft",
+    "room": "North Bay",
+    "address": "519 Stonebroom Lane, Millhaven"
+  },
+  "date": "2027-04-22",
+  "timing": {
+    "load_in": "13:00",
+    "guest_arrival": "17:30",
+    "start": "18:00",
+    "end": "21:30",
+    "load_out": "22:30",
+    "milestones": [
+      {
+        "time": "16:00",
+        "item": "Staff meal in the service pantry"
+      },
+      {
+        "time": "17:00",
+        "item": "Tech check, podium and playback"
+      },
+      {
+        "time": "18:15",
+        "item": "Welcome toast"
+      },
+      {
+        "time": "18:25",
+        "item": "First-course drop, beet and citrus salad"
+      },
+      {
+        "time": "18:45",
+        "item": "Entr\u00e9e fire"
+      },
+      {
+        "time": "19:15",
+        "item": "Mains cleared except water and wine"
+      },
+      {
+        "time": "19:30",
+        "item": "Awards program, four presentations"
+      },
+      {
+        "time": "20:45",
+        "item": "Dessert service after the last award"
+      },
+      {
+        "time": "21:00",
+        "item": "Last call; final remarks and send-off"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 90,
+    "expected": 94,
+    "staff_meals": 12
+  },
+  "menu": {
+    "style": "plated dinner",
+    "service_notes": "Hold dessert until the last award is announced; dessert is served at 20:45. Water and wine poured quietly during remarks. Open bar billed on consumption, with a fictional per-person cap of [CAP]. No dollar figure in this sample.",
+    "courses": [
+      {
+        "course": "Starter",
+        "items": [
+          "beet and citrus salad"
+        ]
+      },
+      {
+        "course": "Main",
+        "items": [
+          "roast pork loin with roasted potatoes, glazed carrots, and pan jus (72)",
+          "poached salmon with herbed rice, seasonal greens, and a lemon sauce (7; fish allergen)",
+          "spiced lentil roast with herbed rice, roasted roots, and a tomato sauce (11; vegetarian)"
+        ]
+      },
+      {
+        "course": "Dessert",
+        "items": [
+          "lemon posset, held until 20:45 after the last award"
+        ]
+      }
+    ],
+    "bar": {
+      "style": "open bar billed on consumption",
+      "hours": "17:30 to last call 21:00",
+      "location": "north wall service bar",
+      "inclusions": "house beer, wine, and a short spirits list, with a fictional per-person cap of [CAP]",
+      "last_call": "21:00",
+      "bartenders": 2,
+      "notes": "Open bar billed on consumption, with a fictional per-person cap of [CAP]. No dollar figure in this sample."
+    }
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 11,
+      "note": "lentil roast"
+    },
+    {
+      "need": "pescatarian",
+      "count": 7,
+      "note": "poached salmon"
+    },
+    {
+      "need": "gluten-free",
+      "count": 4,
+      "note": "2 pork and 2 lentil from a gluten-free pass"
+    }
+  ],
+  "room_setup": {
+    "style": "crescent rounds facing a podium",
+    "tables": "11 rounds of 8 plus a reserved winners' table of 6",
+    "seating": "assigned, winners' table closest to the podium",
+    "other": "See floor plan [ATTACHMENT]. Award table stage left; step-and-repeat in the corridor. White floor-length linen, no overlay, aisle and camera-lane clearance at the rear. Winners' table of 6 is in addition to the 11 rounds. Seat capacity 94.",
+    "seat_capacity": 94
+  },
+  "av": {
+    "items": [
+      "podium microphone",
+      "confidence monitor",
+      "playback for two short clips",
+      "archive recording"
+    ],
+    "notes": "Clips provided on a labeled drive at load-in. No live streaming in this sample. Tech check 17:00. House operator only."
+  },
+  "billing": {
+    "charge_to": "Vellumfen Broadsheets, awards dinner 2027",
+    "guarantee_policy": "72-hour guarantee",
+    "tax_or_service": "service charge 21%, tax as required",
+    "notes": "Open bar billed on consumption, with a fictional per-person cap of [CAP]. No dollar figure in this sample. Master account: room, dinner, and consumption bar at [CAP]. [DEPOSIT] due on signing. Authorized signer [SIGNER]."
+  },
+  "notes": "Synthetic sample only. Keep service lights low during the program. Contact details on file."
+}

@@ -1,0 +1,148 @@
+{
+  "id": "synth-awards-buffet-001",
+  "event_type": "awards dinner, buffet",
+  "event_name": "Slaghearth Cooperative Recognition Buffet",
+  "client": {
+    "organization": "Slaghearth Cooperative",
+    "contact_name": "Nia Colter",
+    "contact_role": "Steward"
+  },
+  "venue": {
+    "name": "Quarrybell Pavilion",
+    "room": "West Court",
+    "address": "210 Quarrybell Rise, Ashmere"
+  },
+  "date": "2027-11-06",
+  "timing": {
+    "load_in": "12:00",
+    "guest_arrival": "17:00",
+    "start": "17:30",
+    "end": "21:00",
+    "load_out": "22:30",
+    "milestones": [
+      {
+        "time": "15:30",
+        "item": "Staff meal in the west pantry"
+      },
+      {
+        "time": "16:30",
+        "item": "Tech check, podium and playback"
+      },
+      {
+        "time": "17:00",
+        "item": "Doors; beer-and-wine bars open, north wall"
+      },
+      {
+        "time": "17:30",
+        "item": "Welcome from the podium"
+      },
+      {
+        "time": "17:45",
+        "item": "Dinner buffet and carving station open, south wall"
+      },
+      {
+        "time": "19:15",
+        "item": "Buffet closes; covers cleared except water and wine"
+      },
+      {
+        "time": "19:30",
+        "item": "Awards program, six presentations"
+      },
+      {
+        "time": "20:30",
+        "item": "Dessert and coffee from trays, after the last award"
+      },
+      {
+        "time": "20:45",
+        "item": "Last call"
+      },
+      {
+        "time": "20:50",
+        "item": "Final remarks and send-off"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 150,
+    "expected": 154,
+    "staff_meals": 20
+  },
+  "menu": {
+    "style": "dinner buffet with one carving station",
+    "service_notes": "Buffet open 17:45-19:15 only. Carving station is lamb and a roasted-cauliflower option, chef attendant. Dessert held until the last award, then tray service so the room stays dark. Hosted beer and wine [PACKAGE] from 17:00 to last call 20:45; no spirits. Water and wine poured quietly during the program.",
+    "courses": [
+      {
+        "course": "Buffet",
+        "items": [
+          "bitter greens and roasted pear (vegetarian; vegan without the cheese crumble, served on the side)",
+          "herb rice and roasted roots",
+          "braised chicken",
+          "poached trout, labeled allergen: fish",
+          "carved lamb shoulder, herb yogurt on the side",
+          "roasted cauliflower steak at the carving station (vegan)"
+        ]
+      },
+      {
+        "course": "Dessert",
+        "items": [
+          "citrus olive-oil cake, berry compote; a labeled gluten-free almond-free cup for 12"
+        ]
+      }
+    ],
+    "bar": {
+      "style": "hosted beer and wine",
+      "hours": "17:00 to last call 20:45",
+      "location": "north wall",
+      "inclusions": "beer and wine only; no spirits",
+      "last_call": "20:45",
+      "bartenders": 3,
+      "notes": "Hosted beer and wine [PACKAGE]."
+    }
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 22,
+      "note": "cauliflower, greens, rice, roots, dessert; 8 of these are vegan and skip the cheese crumble and yogurt"
+    },
+    {
+      "need": "vegan",
+      "count": 8
+    },
+    {
+      "need": "gluten-free",
+      "count": 12,
+      "note": "labeled dessert cups; confirm sauces at the carving station"
+    },
+    {
+      "need": "dairy-free",
+      "count": 6,
+      "note": "overlap: all 6 are among the vegan or dairy-free-plated vegetarian guests"
+    }
+  ],
+  "room_setup": {
+    "style": "rounds facing a low podium; buffet on the south wall, bars on the north wall",
+    "tables": "16 rounds of 10",
+    "seating": "assigned, winners' table of 10 closest to the podium (one of the 16)",
+    "other": "See floor plan [ATTACHMENT]. White floor-length linen, rust napkins, no overlay, no open flame, centerpieces under 14 inches. Award table stage left, skirted white. Step-and-repeat in the corridor, client-provided. Aisle clearance for a single camera at the rear. Seat capacity 160.",
+    "seat_capacity": 160
+  },
+  "av": {
+    "items": [
+      "podium microphone",
+      "one wireless handheld spare",
+      "one 16:9 confidence monitor",
+      "playback for three short clips",
+      "archive recording"
+    ],
+    "notes": "Clips on a labeled drive at load-in. Tech check 16:30. No live streaming in this sample. House operator only."
+  },
+  "billing": {
+    "charge_to": "Slaghearth Cooperative, recognition buffet 2027",
+    "guarantee_policy": "72-hour guarantee, 5% overage cap",
+    "tax_or_service": "service charge 21%, tax as required",
+    "overage_cap_percent": 5,
+    "notes": "Master account: room, buffet, and [PACKAGE] beer-and-wine. Consumption beyond [PACKAGE] at [RATE]. [DEPOSIT] due on signing. Authorized signer [SIGNER]. Coat check not included."
+  },
+  "notes": "Synthetic sample only. Keep service lights low during the program. Staff meal 15:30, 20 meals. Expected 154 is inside the 5% cap (7) and inside 160 seats."
+}

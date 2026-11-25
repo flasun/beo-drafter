@@ -1,0 +1,139 @@
+{
+  "id": "synth-cocktail-001",
+  "event_type": "cocktail reception",
+  "event_name": "Larkhollow Benefit Society 40th Anniversary Reception",
+  "client": {
+    "organization": "Larkhollow Benefit Society",
+    "contact_name": "Elsa Marrow",
+    "contact_role": "Gathering secretary"
+  },
+  "venue": {
+    "name": "Fernmoss Assembly Rooms",
+    "room": "Long Gallery",
+    "address": "40 Plover Court, Fennwick"
+  },
+  "date": "2027-05-08",
+  "timing": {
+    "load_in": "14:00",
+    "guest_arrival": "18:00",
+    "start": "18:30",
+    "end": "21:30",
+    "load_out": "23:00",
+    "milestones": [
+      {
+        "time": "16:30",
+        "item": "Staff meal in the service corridor"
+      },
+      {
+        "time": "17:30",
+        "item": "Tech check, house speakers and handheld"
+      },
+      {
+        "time": "18:00",
+        "item": "Bars open, Long Gallery east and west walls"
+      },
+      {
+        "time": "18:30",
+        "item": "Passed bites; stations still closed"
+      },
+      {
+        "time": "18:45",
+        "item": "Food stations open"
+      },
+      {
+        "time": "19:30",
+        "item": "Short remarks at the east landing, handheld mic"
+      },
+      {
+        "time": "21:00",
+        "item": "Last call"
+      },
+      {
+        "time": "21:15",
+        "item": "Stations close"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 160,
+    "expected": 168,
+    "staff_meals": 16
+  },
+  "menu": {
+    "style": "passed bites, then food stations",
+    "service_notes": "Passed bites for the first 45 minutes, then four stations. Hosted beer, wine, and one signature cocktail (Plover Spritz) from 18:00 to last call 21:00; spirits not included. Bar package [PACKAGE]; consumption beyond the package at [RATE]. Two bar stations, east and west walls. No raw bar in this sample.",
+    "courses": [
+      {
+        "course": "Passed",
+        "items": [
+          "pea and mint tartlets (vegetarian)",
+          "sesame-free chicken skewer",
+          "citrus shrimp on cucumber (shellfish; offer a cucumber-melon alternative on the same tray for the 6 shellfish-free guests)"
+        ]
+      },
+      {
+        "course": "Stations",
+        "items": [
+          "cheese and pickled-vegetable board, gluten-free crackers on a labeled tray",
+          "carved lamb shoulder and roasted cauliflower, herb yogurt on the side",
+          "dumpling station with a labeled gluten-free pan",
+          "dessert cr\u00eapes and fruit"
+        ]
+      }
+    ],
+    "bar": {
+      "style": "hosted beer, wine, and one signature cocktail",
+      "hours": "18:00 to last call 21:00",
+      "location": "Long Gallery east and west walls, two stations",
+      "inclusions": "beer, wine, and the Plover Spritz; spirits not included",
+      "signature_drink": "Plover Spritz",
+      "last_call": "21:00",
+      "bartenders": 3,
+      "notes": "Bar package [PACKAGE]; consumption beyond the package at [RATE]."
+    }
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 28,
+      "note": "tartlets, cauliflower, cheese board, dessert fruit; 8 of these are also vegan and use the vegetable and fruit labels only"
+    },
+    {
+      "need": "vegan",
+      "count": 8
+    },
+    {
+      "need": "gluten-free",
+      "count": 14,
+      "note": "labeled cracker tray and gluten-free dumpling pan"
+    },
+    {
+      "need": "shellfish-free",
+      "count": 6,
+      "note": "no shrimp; cucumber-melon alternative"
+    }
+  ],
+  "room_setup": {
+    "style": "standing reception with high-tops and a lounge cluster",
+    "tables": "16 high-tops of 4 plus a lounge of 16; most guests standing",
+    "seating": "unassigned; high-tops not reserved",
+    "other": "See floor plan [ATTACHMENT]. Bars on the east and west walls, skirted in charcoal. Stations along the north wall, 8-foot minimum aisle. Escort-card and welcome table in the foyer, ivory linen. Charcoal high-top linen, ivory cocktail napkins, no overlay, no open flame. House seasonal branches only; no client florist in this sample. Standing capacity 180; seated high-top and lounge seats are 80 and are not the room cap.",
+    "seat_capacity": 180
+  },
+  "av": {
+    "items": [
+      "one wireless handheld for remarks",
+      "house speakers for a client playlist",
+      "a spare wired mic at the landing"
+    ],
+    "notes": "No IMAG and no live band. Client delivers the playlist at load-in. Tech check 17:30. House operator only."
+  },
+  "billing": {
+    "charge_to": "Larkhollow Benefit Society, anniversary reception 2027",
+    "guarantee_policy": "72-hour guarantee, 5% overage cap",
+    "tax_or_service": "service charge 20%, tax as required",
+    "overage_cap_percent": 5,
+    "notes": "Master account: room, stations, passed bites, and [PACKAGE] hosted bar. Consumption beyond [PACKAGE] at [RATE]. [DEPOSIT] due on signing. Authorized signer [SIGNER]. Coat check not included."
+  },
+  "notes": "Synthetic sample only. Doors at 18:00. Quiet during the 19:30 remarks. Staff meal 16:30 in the service corridor, 16 meals."
+}
