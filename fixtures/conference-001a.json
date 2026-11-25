@@ -1,0 +1,210 @@
+{
+  "id": "synth-conference-001a",
+  "event_type": "conference day 1",
+  "event_name": "Aldersheath Botanical League Annual Meeting, Day 1",
+  "client": {
+    "organization": "Aldersheath Botanical League",
+    "contact_name": "Harun Vale",
+    "contact_role": "Meeting chair"
+  },
+  "venue": {
+    "name": "Tallowfield Commons",
+    "room": "Meadow Hall, with Breakout Rooms A-C",
+    "address": "77 Tallowfield Green, Wetherwick"
+  },
+  "date": "2027-07-15",
+  "timing": {
+    "load_in": "06:00",
+    "guest_arrival": "07:30",
+    "start": "08:00",
+    "end": "21:00",
+    "load_out": "21:30",
+    "milestones": [
+      {
+        "time": "06:45",
+        "item": "Staff meal in the commons pantry"
+      },
+      {
+        "time": "07:30",
+        "item": "Breakfast buffet, Meadow Hall west wall"
+      },
+      {
+        "time": "08:15",
+        "item": "Breakfast closes; general session, Meadow Hall"
+      },
+      {
+        "time": "10:00",
+        "item": "AM break, foyer"
+      },
+      {
+        "time": "10:20",
+        "item": "Breakouts, Rooms A-C"
+      },
+      {
+        "time": "12:00",
+        "item": "Buffet lunch, Meadow Hall west wall"
+      },
+      {
+        "time": "13:15",
+        "item": "Lunch clear; afternoon plenary, Meadow Hall"
+      },
+      {
+        "time": "15:00",
+        "item": "PM break, foyer"
+      },
+      {
+        "time": "15:20",
+        "item": "Breakouts, Rooms A-C"
+      },
+      {
+        "time": "17:00",
+        "item": "Sessions end; room flip to dinner rounds"
+      },
+      {
+        "time": "17:30",
+        "item": "Reception in the east foyer, beer-and-wine bar opens"
+      },
+      {
+        "time": "18:30",
+        "item": "Doors to plated dinner, Meadow Hall"
+      },
+      {
+        "time": "18:40",
+        "item": "First-course drop, chilled beet consomm\u00e9",
+        "room": "Meadow Hall",
+        "function": "Dinner"
+      },
+      {
+        "time": "19:00",
+        "item": "Entr\u00e9e fire",
+        "room": "Meadow Hall",
+        "function": "Dinner"
+      },
+      {
+        "time": "19:30",
+        "item": "Mains cleared except water and wine",
+        "room": "Meadow Hall",
+        "function": "Dinner"
+      },
+      {
+        "time": "19:45",
+        "item": "League remarks and thank-you"
+      },
+      {
+        "time": "20:15",
+        "item": "Dessert"
+      },
+      {
+        "time": "20:45",
+        "item": "Last call"
+      },
+      {
+        "time": "21:00",
+        "item": "Event end; F&B load-out only, room held overnight"
+      }
+    ],
+    "load_out_item": "F&B and reception-furniture load-out only; room held overnight"
+  },
+  "headcount": {
+    "guarantee": 80,
+    "expected": 80,
+    "staff_meals": 14
+  },
+  "menu": {
+    "style": "day package: breakfast buffet, lunch buffet, evening plated dinner, foyer breaks",
+    "service_notes": "Package id synth-conference-001, Day 1 of 2. Daytime coffee and water only. Evening hosted beer and wine [PACKAGE] 17:30-20:45, no spirits. Dinner is a single plated entr\u00e9e with a vegetarian alternate, counts below. Room held overnight; 21:30 load-out is F&B and reception furniture only. Staff meal 06:45, 14 meals, with a light second sitting at 16:30 for the dinner crew.",
+    "courses": [
+      {
+        "course": "Breakfast buffet",
+        "items": [
+          "fruit, yogurt, oatmeal, egg frittata, savory pastries with a labeled vegan tray"
+        ]
+      },
+      {
+        "course": "Breaks",
+        "items": [
+          "AM: coffee, tea, fruit",
+          "PM: coffee, tea, shortbread, labeled gluten-free tray"
+        ]
+      },
+      {
+        "course": "Lunch buffet",
+        "items": [
+          "grain bowls, citrus chicken, roasted vegetables, chickpea salad, fruit"
+        ]
+      },
+      {
+        "course": "Dinner starter",
+        "items": [
+          "chilled beet consomm\u00e9 (vegetarian; vegan)"
+        ]
+      },
+      {
+        "course": "Dinner main",
+        "items": [
+          "cider-braised hen, herbed farro, greens (64)",
+          "charred cauliflower, herbed farro, greens (16, vegetarian; 6 of these are vegan with no butter on the farro)"
+        ]
+      },
+      {
+        "course": "Dinner dessert",
+        "items": [
+          "summer berry fool; labeled dairy-free cups for 6"
+        ]
+      }
+    ],
+    "bar": {
+      "style": "hosted beer and wine",
+      "hours": "17:30 to last call 20:45",
+      "location": "east foyer reception bar",
+      "inclusions": "beer and wine only; no spirits",
+      "last_call": "20:45",
+      "bartenders": 2,
+      "notes": "Foyer bar at [PACKAGE]. Daytime coffee and water only."
+    }
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 16,
+      "note": "dinner cauliflower; lunch grain bowls and chickpea salad labeled"
+    },
+    {
+      "need": "vegan",
+      "count": 6,
+      "note": "subset of the 16; dairy-free dessert cups; no butter on farro"
+    },
+    {
+      "need": "gluten-free",
+      "count": 8,
+      "note": "no farro; substitute roasted potatoes on dinner; labeled PM tray"
+    }
+  ],
+  "room_setup": {
+    "style": "daytime classroom in Meadow Hall, three conference breakouts; 17:00 flip to dinner rounds in Meadow Hall, reception in the east foyer",
+    "tables": "Day: 10 tables of 8 plus a presenter table in Meadow Hall; one table of 14 in each of Rooms A-C. Dinner: 8 rounds of 10.",
+    "seating": "unassigned by day; assigned rounds at dinner, place cards set during the 17:00 flip",
+    "other": "See floor plans, day and dinner, [ATTACHMENT]. Flip window 17:00-17:30: strike classroom, set 8 rounds, ivory linen, sage napkins, no open flame, low centerpieces. Foyer reception: 6 high-tops, charcoal linen, one skirted bar. Breakout rooms locked at 17:00 and left set for Day 2. Seat capacity 80 classroom and 80 dinner.",
+    "seat_capacity": 80
+  },
+  "av": {
+    "items": [
+      "projector and 16:9 screen in Meadow Hall",
+      "HDMI and USB-C adapters",
+      "one lavalier and one handheld in Meadow Hall",
+      "display and HDMI in each breakout",
+      "house playlist at the foyer reception, no band"
+    ],
+    "notes": "Client laptops. Tech check 07:00 Day 1. Equipment stays in house overnight for Day 2. No recording in this sample."
+  },
+  "billing": {
+    "charge_to": "Aldersheath Botanical League, annual meeting 2027, package synth-conference-001",
+    "guarantee_policy": "7-day guarantee for the package, 5% overage cap",
+    "tax_or_service": "service charge 22%, tax as required",
+    "overage_cap_percent": 5,
+    "notes": "One master account for Day 1 and Day 2. 24-hour room hold at [ROOM]. Day package at [RATE], dinner at [RATE], foyer bar at [PACKAGE]. [DEPOSIT] due on signing. Authorized signer [SIGNER]. Invoice after Day 2 load-out."
+  },
+  "notes": "Synthetic sample only. Package synth-conference-001, Day 1 of 2; pair with synth-conference-001b. Room held overnight. Quiet during remarks. Dinner counts 64 + 16 = 80.",
+  "package_id": "synth-conference-001",
+  "package_start": "2027-07-15"
+}

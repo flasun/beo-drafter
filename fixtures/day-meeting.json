@@ -1,0 +1,151 @@
+{
+  "id": "synth-day-meeting-001",
+  "event_type": "corporate day meeting",
+  "event_name": "Woldfern Analytics Midyear Working Day",
+  "client": {
+    "organization": "Woldfern Analytics",
+    "contact_name": "Teo Bramble",
+    "contact_role": "Chief of staff"
+  },
+  "venue": {
+    "name": "Ivorydene Meeting House",
+    "room": "Oriole Hall, with Breakout Rooms 1-3",
+    "address": "16 Ivorydene Close, Hartlequay"
+  },
+  "date": "2027-09-14",
+  "timing": {
+    "load_in": "06:00",
+    "guest_arrival": "07:15",
+    "start": "07:30",
+    "end": "15:30",
+    "load_out": "16:30",
+    "milestones": [
+      {
+        "time": "06:45",
+        "item": "Staff meal in the back pantry"
+      },
+      {
+        "time": "07:30",
+        "item": "Breakfast buffet opens, Oriole Hall west wall"
+      },
+      {
+        "time": "08:10",
+        "item": "Breakfast buffet closes and is reset to water and note paper"
+      },
+      {
+        "time": "08:15",
+        "item": "General session, Oriole Hall"
+      },
+      {
+        "time": "10:00",
+        "item": "AM break, foyer: coffee, tea, fruit, and a labeled gluten-free tray"
+      },
+      {
+        "time": "10:20",
+        "item": "Breakout sessions, Rooms 1-3 (14 seats each)"
+      },
+      {
+        "time": "12:00",
+        "item": "Plated working lunch served in the breakout rooms"
+      },
+      {
+        "time": "13:15",
+        "item": "Lunch clear; sessions resume in Rooms 1-3"
+      },
+      {
+        "time": "14:00",
+        "item": "PM break, foyer: coffee and cookies, vegan cookies labeled"
+      },
+      {
+        "time": "14:15",
+        "item": "Closing session, Oriole Hall"
+      },
+      {
+        "time": "15:15",
+        "item": "Program ends; guests depart"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 42,
+    "expected": 42,
+    "staff_meals": 8
+  },
+  "menu": {
+    "style": "breakfast buffet, then plated lunch in breakouts",
+    "service_notes": "No alcohol. Coffee refresh at each break. Lunch is a pre-select plated working lunch, counts below. Quiet service during remarks. Staff of 8 covers both meals on one shift, meal at 06:45.",
+    "courses": [
+      {
+        "course": "Breakfast buffet",
+        "items": [
+          "seasonal fruit",
+          "yogurt and granola, oat milk on the side",
+          "egg action station",
+          "savory pastries, labeled vegan tray of 6"
+        ]
+      },
+      {
+        "course": "AM and PM breaks",
+        "items": [
+          "coffee, tea, citrus water",
+          "AM fruit and a labeled gluten-free pastry",
+          "PM cookies, including a labeled vegan plate"
+        ]
+      },
+      {
+        "course": "Lunch",
+        "items": [
+          "herb chicken, barley salad, roasted carrots (24)",
+          "seared trout, crushed potatoes, greens (10)",
+          "chickpea and vegetable tart, side salad (8, vegan and vegetarian)"
+        ]
+      }
+    ]
+  },
+  "dietary": [
+    {
+      "need": "vegan",
+      "count": 8,
+      "note": "breakfast vegan pastry and oat milk; lunch chickpea tart; vegan PM cookies"
+    },
+    {
+      "need": "gluten-free",
+      "count": 5,
+      "note": "3 trout and 2 chicken from a gluten-free pass; no barley on those 2 chicken plates, substitute potatoes"
+    },
+    {
+      "need": "kosher-style packaged options",
+      "count": 2,
+      "note": "breakfast and break only; lunch is the chicken plate with sealed cutlery"
+    },
+    {
+      "need": "nut-aware",
+      "count": 1,
+      "note": "no shared pastry tongs on the nut-aware setting; confirm the granola"
+    }
+  ],
+  "room_setup": {
+    "style": "classroom in Oriole Hall for breakfast and general sessions; three conference breakouts for workshops and lunch",
+    "tables": "Oriole Hall: 7 tables of 6 plus a presenter table. Breakouts: one table of 14 in each of Rooms 1-3.",
+    "seating": "unassigned in Oriole Hall; lunch seats reserved by breakout assignment, not by place card",
+    "other": "See floor plan [ATTACHMENT]. Flip: clear the breakfast buffet by 08:10, leave water carafes. Foyer skirted break tables, ivory linen, no overlay. Breakout rooms set conference style before load-in; lunch place settings set during the 10:00 break, not during the general session. Blackout in Oriole Hall. Notepads and pencils in all rooms.",
+    "seat_capacity": 42
+  },
+  "av": {
+    "items": [
+      "projector and 16:9 screen in Oriole Hall",
+      "HDMI and USB-C adapters",
+      "one wireless lavalier in Oriole Hall",
+      "65-inch display and HDMI in each breakout",
+      "flip chart in each breakout"
+    ],
+    "notes": "Client brings one laptop for the general session and one per breakout. Adapter test at 06:45. No recording in this sample."
+  },
+  "billing": {
+    "charge_to": "Woldfern Analytics, events cost center WF-118",
+    "guarantee_policy": "48-hour guarantee, same-day reductions not credited",
+    "tax_or_service": "service charge 20%, tax as required",
+    "notes": "Single invoice to accounts payable: room rental at [ROOM], day package at [RATE], [F&B MINIMUM] waived if breakfast and lunch are both taken. No guest-pay items. Authorized signer [SIGNER]. Parking not included."
+  },
+  "notes": "Synthetic sample only. Quiet service during the 08:15 and 14:15 sessions. One guarantee of 42 covers breakfast, breaks, and lunch. Contact details on file."
+}

@@ -1,0 +1,104 @@
+{
+  "id": "synth-breakfast-001",
+  "event_type": "corporate breakfast",
+  "event_name": "Ninthwick Q1 Planning Breakfast",
+  "client": {
+    "organization": "Ninthwick Cooperative",
+    "contact_name": "Jonah Reed",
+    "contact_role": "Operations lead"
+  },
+  "venue": {
+    "name": "Northglass Atrium",
+    "room": "Mezzanine Gallery",
+    "address": "88 Northglass Way, Riverbend"
+  },
+  "date": "2027-02-18",
+  "timing": {
+    "load_in": "06:00",
+    "guest_arrival": "07:15",
+    "start": "07:30",
+    "end": "09:30",
+    "load_out": "10:00",
+    "milestones": [
+      {
+        "time": "06:30",
+        "item": "Staff meal in the back pantry"
+      },
+      {
+        "time": "07:45",
+        "item": "Buffet opens"
+      },
+      {
+        "time": "08:10",
+        "item": "Welcome and planning brief"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 45,
+    "expected": 48,
+    "staff_meals": 6
+  },
+  "menu": {
+    "style": "breakfast buffet",
+    "service_notes": "Action station for eggs; coffee refresh every 20 minutes. No alcohol. Staffing is a buffet planning ratio, not a plated 1:16 crew.",
+    "courses": [
+      {
+        "course": "Buffet",
+        "items": [
+          "seasonal fruit",
+          "yogurt and granola",
+          "egg action station",
+          "savory pastries"
+        ]
+      },
+      {
+        "course": "Beverage",
+        "items": [
+          "coffee",
+          "tea",
+          "citrus water",
+          "hot chocolate"
+        ]
+      }
+    ]
+  },
+  "dietary": [
+    {
+      "need": "vegan",
+      "count": 5,
+      "note": "oat milk and a labeled vegan pastry tray"
+    },
+    {
+      "need": "dairy-free",
+      "count": 3
+    },
+    {
+      "need": "kosher-style packaged options",
+      "count": 2
+    }
+  ],
+  "room_setup": {
+    "style": "classroom plus a buffet wall",
+    "tables": "6 tables of 8, one presenter table",
+    "seating": "unassigned",
+    "other": "See floor plan [ATTACHMENT]. Blackout capability for slides; water carafes on tables. Ivory classroom linen, no overlay. Buffet along the west wall. Seat capacity 48.",
+    "seat_capacity": 48
+  },
+  "av": {
+    "items": [
+      "projector and 16:9 screen",
+      "HDMI and USB-C adapters",
+      "one wireless lavalier",
+      "flip chart"
+    ],
+    "notes": "Client brings a laptop. Test the adapter set at load-in."
+  },
+  "billing": {
+    "charge_to": "Ninthwick Cooperative, events cost center NW-204",
+    "guarantee_policy": "48-hour guarantee",
+    "tax_or_service": "service charge 20%, tax as required",
+    "notes": "Single invoice to accounts payable; no guest-pay items. Day package at [RATE]. Authorized signer [SIGNER]. Parking not included."
+  },
+  "notes": "Synthetic sample only. Quiet service during the 08:10 remarks. Contact details on file."
+}

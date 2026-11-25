@@ -1,0 +1,127 @@
+{
+  "id": "synth-conference-001b",
+  "event_type": "conference day 2",
+  "event_name": "Aldersheath Botanical League Annual Meeting, Day 2",
+  "client": {
+    "organization": "Aldersheath Botanical League",
+    "contact_name": "Harun Vale",
+    "contact_role": "Meeting chair"
+  },
+  "venue": {
+    "name": "Tallowfield Commons",
+    "room": "Meadow Hall, with Breakout Rooms A-C",
+    "address": "77 Tallowfield Green, Wetherwick"
+  },
+  "date": "2027-07-16",
+  "timing": {
+    "load_in": "06:00",
+    "guest_arrival": "07:30",
+    "start": "08:00",
+    "end": "13:00",
+    "load_out": "15:00",
+    "milestones": [
+      {
+        "time": "06:45",
+        "item": "Staff meal in the commons pantry"
+      },
+      {
+        "time": "07:30",
+        "item": "Breakfast buffet opens"
+      },
+      {
+        "time": "08:15",
+        "item": "Breakfast closes; closing plenary, Meadow Hall"
+      },
+      {
+        "time": "10:00",
+        "item": "AM break, foyer, and boxed lunches staged"
+      },
+      {
+        "time": "10:20",
+        "item": "Final breakouts, Rooms A-C"
+      },
+      {
+        "time": "12:00",
+        "item": "Close in Meadow Hall; boxed lunches handed at the foyer table"
+      },
+      {
+        "time": "13:00",
+        "item": "Event end; guests depart"
+      }
+    ],
+    "load_in_item": "Overnight hold resumes; breakfast set in Meadow Hall",
+    "load_out_item": "Full load-out, including overnight hold"
+  },
+  "headcount": {
+    "guarantee": 80,
+    "expected": 80,
+    "staff_meals": 10
+  },
+  "menu": {
+    "style": "breakfast buffet, AM break, boxed lunch to go",
+    "service_notes": "Package id synth-conference-001, Day 2 of 2. No alcohol. Boxed lunches staged at 10:00, handed at 12:00, not eaten in Meadow Hall. Same dietary labels as Day 1. Overnight AV and breakout sets remain from Day 1.",
+    "courses": [
+      {
+        "course": "Breakfast buffet",
+        "items": [
+          "fruit, yogurt, oatmeal, egg frittata, savory pastries with a labeled vegan tray"
+        ]
+      },
+      {
+        "course": "AM break",
+        "items": [
+          "coffee, tea, fruit, labeled gluten-free tray"
+        ]
+      },
+      {
+        "course": "Boxed lunch",
+        "items": [
+          "citrus chicken box (64)",
+          "chickpea and vegetable box (16, vegetarian; 6 vegan, no dairy dressing)",
+          "each box: grain salad, fruit, a savory cookie; eight gluten-free boxes substitute a rice salad and a labeled cookie"
+        ]
+      }
+    ]
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 16,
+      "note": "chickpea box"
+    },
+    {
+      "need": "vegan",
+      "count": 6,
+      "note": "subset of the 16; no dairy dressing"
+    },
+    {
+      "need": "gluten-free",
+      "count": 8,
+      "note": "rice salad and labeled cookie, across both box types"
+    }
+  ],
+  "room_setup": {
+    "style": "classroom in Meadow Hall as left set after the Day 1 overnight hold; Rooms A-C still conference style",
+    "tables": "10 tables of 8 plus a presenter table; one table of 14 in each of Rooms A-C. Foyer: one skirted boxed-lunch table.",
+    "seating": "unassigned",
+    "other": "See Day 2 floor plan [ATTACHMENT]. No flip. Ivory classroom linen from the overnight hold. Boxed-lunch table in the foyer, ivory skirt. Seat capacity 80.",
+    "seat_capacity": 80
+  },
+  "av": {
+    "items": [
+      "same Meadow Hall projector, lavalier, and handheld as Day 1",
+      "same breakout displays"
+    ],
+    "notes": "No new install. House check at 06:30. Strike at 13:30, after guests leave, as part of the 15:00 load-out."
+  },
+  "billing": {
+    "charge_to": "Aldersheath Botanical League, annual meeting 2027, package synth-conference-001",
+    "guarantee_policy": "7-day guarantee for the package, 5% overage cap",
+    "tax_or_service": "service charge 22%, tax as required",
+    "overage_cap_percent": 5,
+    "notes": "Same master account as synth-conference-001a. Do not double-charge the 24-hour room hold. Day 2 breakfast and boxed lunch at [RATE]. Authorized signer [SIGNER]. Invoice after load-out."
+  },
+  "notes": "Synthetic sample only. Package synth-conference-001, Day 2 of 2; pair with synth-conference-001a. Boxed lunches 64 + 16 = 80. Quiet during the plenary.",
+  "package_id": "synth-conference-001",
+  "package_start": "2027-07-15"
+}
