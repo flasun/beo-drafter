@@ -1,0 +1,162 @@
+{
+  "id": "synth-gala-001",
+  "event_type": "gala",
+  "event_name": "Wrenmarsh Conservancy Annual Gala",
+  "client": {
+    "organization": "Wrenmarsh Conservancy",
+    "contact_name": "Amelia Voss",
+    "contact_role": "Development director"
+  },
+  "venue": {
+    "name": "Cedarwick Civic Rooms",
+    "room": "Grand Hall",
+    "address": "2 Civic Square, Cedarwick"
+  },
+  "date": "2027-10-09",
+  "timing": {
+    "load_in": "10:00",
+    "guest_arrival": "17:30",
+    "start": "18:00",
+    "end": "23:00",
+    "load_out": "01:00",
+    "milestones": [
+      {
+        "time": "16:00",
+        "item": "Staff meal in the west pantry"
+      },
+      {
+        "time": "17:00",
+        "item": "Tech call, Grand Hall and anteroom"
+      },
+      {
+        "time": "18:00",
+        "item": "Reception and silent auction in the anteroom; bars open",
+        "room": "Anteroom",
+        "function": "Reception"
+      },
+      {
+        "time": "19:00",
+        "item": "Doors to dinner; first-course drop",
+        "room": "Grand Hall",
+        "function": "Dinner"
+      },
+      {
+        "time": "19:20",
+        "item": "Entr\u00e9e fire",
+        "room": "Grand Hall",
+        "function": "Dinner"
+      },
+      {
+        "time": "20:15",
+        "item": "Program and paddle raise",
+        "room": "Grand Hall",
+        "function": "Program"
+      },
+      {
+        "time": "21:30",
+        "item": "Dessert and dancing",
+        "room": "Grand Hall",
+        "function": "Dinner"
+      },
+      {
+        "time": "22:30",
+        "item": "Last call"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 280,
+    "expected": 300,
+    "staff_meals": 32
+  },
+  "menu": {
+    "style": "formal plated dinner with passed reception bites",
+    "service_notes": "Wine service by the glass during dinner; auction paddles at place settings. Anteroom reception bar 18:00 to last call 22:30. Hosted beer, wine, and a signature pour [PACKAGE]; consumption beyond the package at [RATE]. Named vegan main is plated separately from the cassoulet.",
+    "courses": [
+      {
+        "course": "Reception",
+        "items": [
+          "mushroom tartlets (vegetarian)",
+          "citrus-cured trout on rye (fish allergen)"
+        ]
+      },
+      {
+        "course": "Starter",
+        "items": [
+          "bitter greens with roasted pear"
+        ]
+      },
+      {
+        "course": "Main",
+        "items": [
+          "braised short rib with mashed potatoes, roasted roots, and red-wine jus (174)",
+          "pan-seared bass with herbed rice, seasonal greens, and a citrus sauce (60; fish allergen)",
+          "white-bean cassoulet with rustic bread, seasonal greens, and a herb sauce (36; vegetarian, not vegan)",
+          "charred carrot and farro, no dairy, with seasonal greens and herb oil (10; vegan)"
+        ]
+      },
+      {
+        "course": "Dessert",
+        "items": [
+          "dark chocolate torte"
+        ]
+      }
+    ],
+    "bar": {
+      "style": "hosted beer, wine, and a signature pour at the anteroom reception; wine by the glass at dinner",
+      "hours": "18:00 reception bar to last call 22:30",
+      "location": "anteroom reception bar; wine service in the Grand Hall during dinner",
+      "inclusions": "beer, wine, and one signature pour; spirits not included",
+      "last_call": "22:30",
+      "bartenders": 5,
+      "notes": "Bar package [PACKAGE]; consumption beyond the package at [RATE]."
+    }
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 36,
+      "note": "white-bean cassoulet; not vegan"
+    },
+    {
+      "need": "vegan",
+      "count": 10,
+      "note": "charred carrot and farro, no dairy; do not plate the cassoulet as vegan"
+    },
+    {
+      "need": "shellfish-free",
+      "count": 8,
+      "note": "no shellfish on this menu; confirm sauces"
+    },
+    {
+      "need": "gluten-free",
+      "count": 18,
+      "note": "mapped across short rib, bass, and vegan plates; no rye toast on the reception trout for those guests"
+    }
+  ],
+  "room_setup": {
+    "style": "rounds facing a raised stage, reception in the anteroom",
+    "tables": "28 rounds of 10",
+    "seating": "assigned; place cards set after final guarantee",
+    "other": "See floor plan [ATTACHMENT]. Reception in the anteroom; dinner in the Grand Hall. Ivory floor-length linen, forest napkins, no overlay, centerpieces under 16 inches, no open flame. Bars in the anteroom, skirted charcoal. Registration and auction tables skirted ivory. Florals house seasonal branches plus client-provided centerpieces. Seat capacity 280.",
+    "seat_capacity": 280
+  },
+  "av": {
+    "items": [
+      "stage wash and spots",
+      "two IMAG screens",
+      "lectern microphone",
+      "wireless handheld spare",
+      "recording feed"
+    ],
+    "notes": "House production. Program cue sheet due 7 days prior. Tech call 17:00. House operator on the call."
+  },
+  "billing": {
+    "charge_to": "Wrenmarsh Conservancy gala account",
+    "guarantee_policy": "7-day guarantee, 5% overage cap",
+    "tax_or_service": "service charge 23%, tax as required",
+    "notes": "Sponsorship tables billed separately from general seating at [RATE]. Fictional auction proceeds are not handled by banquet accounts. Room, dinner, and [PACKAGE] bar on the master account. [DEPOSIT] due on signing. Authorized signer [SIGNER].",
+    "overage_cap_percent": 5
+  },
+  "notes": "Synthetic sample only. Coat check in the west foyer; quiet during the paddle raise. Vegan plates are the charred carrot and farro, not the cassoulet. Contact details on file."
+}

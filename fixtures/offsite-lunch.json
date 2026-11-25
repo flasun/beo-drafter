@@ -1,0 +1,106 @@
+{
+  "id": "synth-lunch-001",
+  "event_type": "offsite lunch",
+  "event_name": "Shale & Nettle Studio Offsite Lunch",
+  "client": {
+    "organization": "Shale & Nettle Studio",
+    "contact_name": "Samira Holt",
+    "contact_role": "Studio manager"
+  },
+  "venue": {
+    "name": "Millpond Workshop Rooms",
+    "room": "Workshop B",
+    "address": "7 Millpond Path, Oakmere"
+  },
+  "date": "2027-03-05",
+  "timing": {
+    "load_in": "09:30",
+    "guest_arrival": "11:45",
+    "start": "12:00",
+    "end": "13:30",
+    "load_out": "14:00",
+    "milestones": [
+      {
+        "time": "11:00",
+        "item": "Staff meal in the pantry"
+      },
+      {
+        "time": "12:00",
+        "item": "Working lunch begins"
+      },
+      {
+        "time": "13:10",
+        "item": "Collect dishes in one pass"
+      },
+      {
+        "time": "13:15",
+        "item": "Coffee and wrap-up"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 28,
+    "expected": 28,
+    "staff_meals": 3
+  },
+  "menu": {
+    "style": "working lunch, family-style",
+    "service_notes": "Serve at the table so discussion can continue. Pack leftover boxes on request. No alcohol. Family-style platters: one of each dish per 4 guests (7 platters of each item for this guarantee). Brief lists 3 staff meals, below the computed floor-team count; those 3 are the only meals issued on this working lunch.",
+    "courses": [
+      {
+        "course": "Lunch",
+        "items": [
+          "herbed grain bowls",
+          "roasted vegetable platters",
+          "citrus chicken",
+          "chickpea salad"
+        ]
+      },
+      {
+        "course": "Dessert",
+        "items": [
+          "fruit and shortbread"
+        ]
+      }
+    ]
+  },
+  "dietary": [
+    {
+      "need": "vegan",
+      "count": 8,
+      "note": "grain bowls and chickpea salad clearly labeled"
+    },
+    {
+      "need": "gluten-free",
+      "count": 6,
+      "note": "no shared breadbasket on those settings"
+    },
+    {
+      "need": "sesame-free",
+      "count": 1,
+      "note": "confirm sauces and garnishes"
+    }
+  ],
+  "room_setup": {
+    "style": "one large conference table, U-shape if the group splits",
+    "tables": "one table of 28 or two of 14",
+    "seating": "unassigned",
+    "other": "See floor plan [ATTACHMENT]. Whiteboard wall clear; notepads and pencils set. Ivory conference linen, no overlay. Seat capacity 28.",
+    "seat_capacity": 28
+  },
+  "av": {
+    "items": [
+      "65-inch display on a cart",
+      "HDMI cable",
+      "two power strips"
+    ],
+    "notes": "No microphone. Client will screen-share from one laptop."
+  },
+  "billing": {
+    "charge_to": "Shale & Nettle Studio, offsite series",
+    "guarantee_policy": "24-hour guarantee, same-day reductions not credited",
+    "tax_or_service": "service charge 18%, tax as required",
+    "notes": "Room rental and lunch on one invoice at [RATE] and [ROOM]; parking not included. Authorized signer [SIGNER]."
+  },
+  "notes": "Synthetic sample only. Quiet service; collect dishes in one pass at 13:10. Staff-meal count of 3 is intentional and below the computed floor-team total. Contact details on file."
+}

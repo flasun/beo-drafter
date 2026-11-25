@@ -1,0 +1,145 @@
+{
+  "id": "synth-wedding-001",
+  "event_type": "wedding",
+  "event_name": "Kim & Alvarez Reception",
+  "client": {
+    "organization": "Kim-Alvarez Wedding Party",
+    "contact_name": "Priya Kim",
+    "contact_role": "Planner"
+  },
+  "venue": {
+    "name": "Cinderwharf Hall",
+    "room": "East Garden Room",
+    "address": "14 Cinder Wharf, Mapleport"
+  },
+  "date": "2027-06-12",
+  "timing": {
+    "load_in": "14:00",
+    "guest_arrival": "17:00",
+    "start": "17:30",
+    "end": "22:30",
+    "load_out": "23:30",
+    "milestones": [
+      {
+        "time": "15:30",
+        "item": "Staff meal in the garden-side pantry"
+      },
+      {
+        "time": "17:00",
+        "item": "Cocktail hour in the foyer and garden; bars open; passed bites"
+      },
+      {
+        "time": "18:00",
+        "item": "First-course drop, peach and tomato soup"
+      },
+      {
+        "time": "18:20",
+        "item": "Entr\u00e9e fire"
+      },
+      {
+        "time": "19:00",
+        "item": "Plated dessert at the table"
+      },
+      {
+        "time": "19:45",
+        "item": "First dance and ceremonial cake cutting"
+      },
+      {
+        "time": "20:15",
+        "item": "Dance floor open; late-night cake slices at the cake table"
+      },
+      {
+        "time": "22:00",
+        "item": "Last call; bars close at 22:15"
+      }
+    ]
+  },
+  "headcount": {
+    "guarantee": 120,
+    "expected": 128,
+    "staff_meals": 16
+  },
+  "menu": {
+    "style": "plated dinner",
+    "service_notes": "Dual entr\u00e9e pre-select; fire list must match the guarantee. Bread service at place setting. Cocktail hour 17:00-18:00 in the foyer and garden with passed bites. Plated dessert is the vanilla bean cake served at the table; the ceremonial cake is a separate display cake, cut at 19:45, with late-night slices at the cake table. Hosted bar [PACKAGE] from 17:00 to last call 22:00; consumption beyond the package at [RATE].",
+    "courses": [
+      {
+        "course": "Cocktail hour",
+        "items": [
+          "passed peach and tomato tartlets (vegetarian)",
+          "sesame-free chicken skewer"
+        ]
+      },
+      {
+        "course": "First",
+        "items": [
+          "Chilled peach and tomato soup"
+        ]
+      },
+      {
+        "course": "Main",
+        "items": [
+          "Herb-roasted chicken with roasted potatoes, seasonal greens, and pan jus (68; 3 gluten-free and 1 nut-protocol from a separate pass)",
+          "Citrus-braised halibut with herbed rice, seasonal vegetables, and a citrus sauce (38; fish allergen)",
+          "Charred cauliflower steak with crushed potatoes, roasted carrots, and herb oil (14; 3 gluten-free and 1 nut-protocol from a nut-free pass)"
+        ]
+      },
+      {
+        "course": "Dessert",
+        "items": [
+          "Vanilla bean cake with berry compote (plated at the table)",
+          "ceremonial display cake, cut at 19:45, late-night slices at the cake table"
+        ]
+      }
+    ],
+    "bar": {
+      "style": "hosted beer, wine, and a signature cocktail",
+      "hours": "17:00 to last call 22:00",
+      "location": "foyer bar plus a service bar at the garden doors",
+      "inclusions": "beer, wine, and one signature cocktail; spirits not included",
+      "signature_drink": "Cinderwharf Spritz",
+      "last_call": "22:00",
+      "bartenders": 2,
+      "notes": "Bar package [PACKAGE]; consumption beyond the package at [RATE]."
+    }
+  },
+  "dietary": [
+    {
+      "need": "vegetarian",
+      "count": 14,
+      "note": "cauliflower steak; 3 of the 14 are also gluten-free"
+    },
+    {
+      "need": "gluten-free",
+      "count": 6,
+      "note": "3 cauliflower and 3 chicken, from a gluten-free pass"
+    },
+    {
+      "need": "nut-free kitchen protocol",
+      "count": 2,
+      "note": "one guest with a severe allergy; 1 chicken and 1 cauliflower, both plated from a nut-free pass; no shared fryer"
+    }
+  ],
+  "room_setup": {
+    "style": "rounds with a clear dance floor at the garden doors",
+    "tables": "12 rounds of 10 plus a sweetheart table",
+    "seating": "assigned seats, escort-card table in the foyer",
+    "other": "See floor plan [ATTACHMENT]. Uplighting in soft amber; no confetti. Ivory floor-length linen, blush napkins, no overlay. Escort-card, cake, and gift tables skirted ivory. Dance floor at the garden doors. Bars in the foyer and at the garden doors, skirted charcoal. Florals client-provided; no open flame. Seat capacity 122.",
+    "seat_capacity": 122
+  },
+  "av": {
+    "items": [
+      "wireless lavalier for welcome remarks",
+      "DJ booth power at dance floor",
+      "string-light dimmers"
+    ],
+    "notes": "Client provides DJ. House audio only for welcome remarks. Tech check 16:00. House operator only."
+  },
+  "billing": {
+    "charge_to": "Kim-Alvarez Wedding Party, master account",
+    "guarantee_policy": "72-hour guarantee; overage at [RATE] per guaranteed guest",
+    "tax_or_service": "service charge 22%, tax as required",
+    "notes": "Master account: room, dinner, and [PACKAGE] bar. Consumption beyond [PACKAGE] at [RATE]. [DEPOSIT] due on signing; [DEPOSIT] due 14 days prior. Authorized signer [SIGNER]. Two equal deposits already logged as fiction; no dollar figures in this sample."
+  },
+  "notes": "Synthetic sample only. Ceremony is off-site; this BEO covers the reception. Severe nut allergy: two plates from a nut-free pass; no shared fryer. Contact details on file."
+}
